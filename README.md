@@ -4,7 +4,7 @@ link: https://marcoreliog,github.io/dariuz-store/
 
 ## 📚 Sobre o Projeto
 
-Este projeto foi iniciado originalmente em 2023 como parte de um trabalho para a disciplina de Desenvolvimento Web. Na época, a proposta era criar uma **landing page simples** para um marketplace fictício, com foco em HTML, CSS e estrutura básica de navegação.
+Este projeto foi iniciado originalmente em 2023 como parte de um interesse pessoal. Na época, a proposta era criar uma **landing page simples** para um marketplace fictício, com foco em HTML, CSS e estrutura básica de navegação.
 Durante o primeiro semestre de 2025, decidi revisitar e expandir a ideia, tornando a Dariuz Store um projeto mais completo, com **funcionalidades reais de navegação entre páginas, interação com JavaScript**, organização visual aprimorada e uma **simulação de finalização de compra**.
 
 
