@@ -1,6 +1,6 @@
 # Dariuz Store - Projeto de Marketplace de Tênis 👟
 
-![Dariuz Store Banner](https://marcoreliog,github.io/dariuz-store/)
+!(https://marcoreliog,github.io/dariuz-store/)
 
 ## 📚 Sobre o Projeto
 
