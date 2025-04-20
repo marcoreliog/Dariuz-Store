@@ -1,6 +1,6 @@
 # Dariuz Store - Projeto de Marketplace de Tênis 👟
 
-!(https://marcoreliog,github.io/dariuz-store/)
+link: https://marcoreliog,github.io/dariuz-store/
 
 ## 📚 Sobre o Projeto
 
